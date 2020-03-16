@@ -1,0 +1,108 @@
+p
+{
+   text-align : left;
+   font-size: 17pt;
+   line-height: 27pt; /*a bigger line-height makes it easier for the audience to read*/
+   color : black;
+   font-family: "Calibri Light", cambria, "Times New Roman";
+}
+
+h2
+{
+	font-size: 30pt;
+	line-height: 20pt;
+}
+
+h3
+{
+	font-size: 18pt;
+	color: navy;
+}
+
+li
+{
+	font-size: 15pt;
+	line-height: 20pt;
+}
+
+body
+{
+	background-color: #dfbf9f;
+}
+
+.easy
+{ 
+	text-align: center;
+	font-size: 60pt; /*the title should be bigger than the rest of the body*/
+	color: #4d2600;
+	font-family: "Bradley Hand ITC", "Arial Unicode MS", monospace;
+}
+
+.extra
+{
+	color: black;
+	font-family: "Times New Roman", verdana, monospace;
+	font-size: 15pt;
+	line-height: 15pt;
+}
+
+.content
+{
+	font-size: 21pt;
+	font-family: "Cooper Black", "Times New Roman", candara;
+	color: black;
+	text-align: left;
+}
+
+.mega
+{
+	color: #003300;
+	font-family: "Times New Roman", verdana, cambria;
+	font-size: 15pt;
+	line-height: 15pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+#History
+{
+	color: olive;
+	text-align: left;
+	font-weight: 900;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+}
+
+#Processing
+{
+	color: olive;
+	text-align: left;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+	font-weight: 900;
+}
+
+#Types
+{
+	color: maroon;
+	text-align: left;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+	font-weight: 900;
+}
+
+#References
+{
+	color: maroon;
+	text-align: left;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+	font-weight: 900;
+}
+
+img
+{
+	border-color: black;
+	border-width: medium;
+	border-style: solid;
+	margin: 1%;
+	padding: 0.5%;
+}
+
+

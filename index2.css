@@ -1,0 +1,119 @@
+.read
+{ 
+	text-align: center;
+	font-size: 50pt;
+	color: #4d2600;
+	font-family: "Bradley Hand ITC", "Arial Unicode MS", monospace;
+}
+
+.content
+{
+	font-size: 21pt;
+	font-family: "Cooper Black", "Times New Roman", candara;
+	color: black;
+	text-align: left;
+}
+
+.basic
+{
+	color: black;
+	font-family: "Times New Roman", verdana, monospace;
+	font-size: 15pt;
+	line-height: 15pt;
+}
+
+.image
+{
+	border-color: #336600;
+	border-width: medium;
+	border-style: solid;
+	margin: 0.3%;
+	padding: 0.7%;
+}
+
+.mega
+{
+	color: #009900;
+	font-family: "Times New Roman", verdana, cambria;
+	font-size: 15pt;
+	line-height: 15pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+li
+{
+	font-size: 15pt;
+	line-height: 20pt;
+}
+
+p
+{
+   text-align : left;
+   font-size: 17pt;
+   line-height: 27pt;
+   color : black;
+   font-family: "Calibri Light", cambria, "Times New Roman";
+}
+
+h2
+{
+	font-size: 30pt;
+	line-height: 20pt;
+}
+
+h3
+{
+	font-size: 18pt;
+	color: #b30000;
+}
+
+body
+{
+	background-color: #FFFACD;
+}
+
+#NutritionResearch
+{
+	color: olive;
+	text-align: left;
+	font-weight: 900;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+}
+
+#Label
+{
+	color: maroon;
+	text-align: left;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+	font-weight: 900;
+}
+
+#Industry
+{ 
+	color: olive;
+	text-align: left;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+	font-weight: 900;
+}
+
+#UsageConsumption
+{
+	color: maroon;
+	text-align: left;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+	font-weight: 900;
+}
+
+#References
+{
+	color: olive;
+	text-align: left;
+	font-family: "Bradley Hand ITC", "Times New Roman", candara;
+	font-weight: 900;
+}
+
+img
+{
+	margin: 0.2%;
+}
